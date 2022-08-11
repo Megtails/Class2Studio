@@ -1,0 +1,15 @@
+/Users/meghanmccarthy/Documents/Programming/LaunchCode/CSharp/Class2Studio/Class2Studio/bin/Debug/net6.0/Class2Studio
+/Users/meghanmccarthy/Documents/Programming/LaunchCode/CSharp/Class2Studio/Class2Studio/bin/Debug/net6.0/Class2Studio.deps.json
+/Users/meghanmccarthy/Documents/Programming/LaunchCode/CSharp/Class2Studio/Class2Studio/bin/Debug/net6.0/Class2Studio.runtimeconfig.json
+/Users/meghanmccarthy/Documents/Programming/LaunchCode/CSharp/Class2Studio/Class2Studio/bin/Debug/net6.0/Class2Studio.dll
+/Users/meghanmccarthy/Documents/Programming/LaunchCode/CSharp/Class2Studio/Class2Studio/bin/Debug/net6.0/Class2Studio.pdb
+/Users/meghanmccarthy/Documents/Programming/LaunchCode/CSharp/Class2Studio/Class2Studio/obj/Debug/net6.0/Class2Studio.csproj.AssemblyReference.cache
+/Users/meghanmccarthy/Documents/Programming/LaunchCode/CSharp/Class2Studio/Class2Studio/obj/Debug/net6.0/Class2Studio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meghanmccarthy/Documents/Programming/LaunchCode/CSharp/Class2Studio/Class2Studio/obj/Debug/net6.0/Class2Studio.AssemblyInfoInputs.cache
+/Users/meghanmccarthy/Documents/Programming/LaunchCode/CSharp/Class2Studio/Class2Studio/obj/Debug/net6.0/Class2Studio.AssemblyInfo.cs
+/Users/meghanmccarthy/Documents/Programming/LaunchCode/CSharp/Class2Studio/Class2Studio/obj/Debug/net6.0/Class2Studio.csproj.CoreCompileInputs.cache
+/Users/meghanmccarthy/Documents/Programming/LaunchCode/CSharp/Class2Studio/Class2Studio/obj/Debug/net6.0/Class2Studio.dll
+/Users/meghanmccarthy/Documents/Programming/LaunchCode/CSharp/Class2Studio/Class2Studio/obj/Debug/net6.0/refint/Class2Studio.dll
+/Users/meghanmccarthy/Documents/Programming/LaunchCode/CSharp/Class2Studio/Class2Studio/obj/Debug/net6.0/Class2Studio.pdb
+/Users/meghanmccarthy/Documents/Programming/LaunchCode/CSharp/Class2Studio/Class2Studio/obj/Debug/net6.0/Class2Studio.genruntimeconfig.cache
+/Users/meghanmccarthy/Documents/Programming/LaunchCode/CSharp/Class2Studio/Class2Studio/obj/Debug/net6.0/ref/Class2Studio.dll
